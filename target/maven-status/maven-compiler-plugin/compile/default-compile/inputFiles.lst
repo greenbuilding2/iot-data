@@ -1,0 +1,10 @@
+/Users/mengxiali/Desktop/IOT_Data-master/green/src/main/java/com/wgc/green/entity/SensorData.java
+/Users/mengxiali/Desktop/IOT_Data-master/green/src/main/java/com/wgc/green/entity/JsonPropert.java
+/Users/mengxiali/Desktop/IOT_Data-master/green/src/main/java/com/wgc/green/GreenApplication.java
+/Users/mengxiali/Desktop/IOT_Data-master/green/src/main/java/com/wgc/green/TestClass.java
+/Users/mengxiali/Desktop/IOT_Data-master/green/src/main/java/com/wgc/green/manager/RequestIotConfig.java
+/Users/mengxiali/Desktop/IOT_Data-master/green/src/main/java/com/wgc/green/repository/MongoDBSeeder.java
+/Users/mengxiali/Desktop/IOT_Data-master/green/src/main/java/com/wgc/green/repository/SensorDataRepository.java
+/Users/mengxiali/Desktop/IOT_Data-master/green/src/main/java/com/wgc/green/entity/Location.java
+/Users/mengxiali/Desktop/IOT_Data-master/green/src/main/java/com/wgc/green/controller/SensorDataController.java
+/Users/mengxiali/Desktop/IOT_Data-master/green/src/main/java/com/wgc/green/manager/SensorDataManager.java
